@@ -1,4 +1,4 @@
-import Camp from "@/components/camp";
+import Camp from "@/components/camp/Camp";
 import Features from "@/components/features";
 import GetApp from "@/components/getApp";
 import Guide from "@/components/guide";
