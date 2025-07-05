@@ -5,7 +5,7 @@ interface ButtonProps {
   children: React.ReactNode;
   icon?: string;
   variant?: string;
-  full: boolean;
+  full?: boolean;
 }
 const Button = ({ type, children, icon, variant, full }: ButtonProps) => {
   return (
