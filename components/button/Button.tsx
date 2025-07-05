@@ -3,7 +3,6 @@ import Image from "next/image";
 interface ButtonProps {
   type: "button" | "submit";
   children: React.ReactNode;
-  //   title: string;
   icon?: string;
   variant?: string;
 }
